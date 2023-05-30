@@ -1,0 +1,195 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Yopapa699/KavoUI/main/KavoUiLib"))()
+
+local Window = Library.CreateLib("Mil Hub V1", "GrapeTheme")
+
+local Tab = Window:NewTab("Troll scripts")
+
+local Section = Tab:NewSection("Troll1")
+
+Section:NewButton("TROLL 1", "ButtonInfo", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/QNrtLBiU"))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("TROLL 2", "ButtonInfo", function()
+
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/AkilExploitz/AkilBlox14-s-Script-Hub-v1.1/9abbc0733af7c9113a5ecbaf4bb2ed5013a4e693/Ultimate%20Trolling%20GUI%20v1.5'))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("TROLL 3", "ButtonInfo", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/YsVaUfYQ'),true))()
+
+print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Games")
+
+local Section = Tab:NewSection("Game scripts 1")
+
+Section:NewButton("Build a boat For Treasure", "ButtonInfo", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("BloxFruits", "has key system and no key sytem", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Slap Battles", "ButtonInfo", function()
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/cheesynob39/R2O/main/Main.lua")))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Bedwars", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uaahjajajqoqiqkqhwhwhw/SCRIPTERV3/main/SPOILER_SNOW_X_V1.txt"))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Big Paintball", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+
+print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Fe scripts")
+
+local Section = Tab:NewSection("Some May Be Bugged")
+
+Section:NewButton("ChatBypasser", "ButtonInfo", function()
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/vqmpjay/chatbypasser/main/chatbypasserv1'),true))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Punch Tool", "ButtonInfo", function()
+
+loadstring(game:HttpGet(('https://pastefy.ga/GvnHVjT5/raw'),true))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Universal Fly", "ButtonInfo", function()
+
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Fling", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("CCTV Camera", "ButtonInfo", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/CCTV%20Camera'))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("ToolGiver", "ButtonInfo", function()
+
+loadstring(game:HttpGet(('https://pastefy.ga/VYIAk3o1/raw'),true))()
+
+print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Keyboard & Bedwars")
+
+local Section = Tab:NewSection("Milvan on T0P")
+
+Section:NewButton("Keyboard", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("VAPE V4", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+
+    print("Clicked")
+
+end)
+
+Section:NewButton("Aurora", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XStormDeveloper/AuroraForRoblox/main/lua", true))()
+
+print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Commands")
+
+local Section = Tab:NewSection("Admin Commands")
+
+Section:NewButton("NamelessAdmin", "ButtonInfo", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Infinte Yield", "ButtonInfo", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+print("Clicked")
+
+end)
+
+Section:NewButton("Commands 2", "ButtonInfo", function()
+
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\112\97\115\116\101\102\121\46\103\97\47\102\71\89\97\52\105\55\116\47\114\97\119\39\41\44\116\114\117\101\41\41\40\41\10")()
+
+print("Clicked")
+
+end)
+
+local Tab = Window:NewTab("Working Trolls")
+
+local Section = Tab:NewSection("Some are FE and some Are Not")
+
+Section:NewButton("Troll 1", "ButtonInfo", function()
+
+loadstring(game:HttpGet(('https://pastebin.com/raw/y94Ejz3B'),true))();
+
+print("Clicked")
+
+end)
